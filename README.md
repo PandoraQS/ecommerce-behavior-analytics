@@ -6,6 +6,8 @@ An end-to-end data engineering project designed to ingest, process, and visualiz
 
 The platform identifies behavioral anomalies, such as impulsivity, loss of control, and erratic spending, by processing simulated e-commerce clickstream data through a robust ETL pipeline and a dynamic intelligence dashboard.
 
+!["Example of application usage"](/media/usage-example.png)
+
 ## Tech Stack
 
 - Language: Python 3.x
@@ -15,6 +17,15 @@ The platform identifies behavioral anomalies, such as impulsivity, loss of contr
 - Storage: SQL (SQLite)
 - Visualization: Streamlit and Plotly
 - Data Generation: Faker
+
+## Security Features
+
+This platform is built with a "Security-First" approach to data engineering:
+
+- **Path Injection Prevention**: Uses absolute path resolution and validation via `pathlib` to ensure all file I/O operations are strictly confined to the project's root directory.
+- **Data Integrity Firewall**: Leverages `Pydantic` models to validate raw JSON payloads, dropping non-compliant records before they reach the processing stage.
+- **SQL Safety**: Implements context managers for database connections to prevent resource leaks and ensure transactional integrity.
+- **Information Leakage Protection**: Global error handling in the UI prevents the disclosure of sensitive system paths or stack traces to the end user.
 
 ## Architecture
 
