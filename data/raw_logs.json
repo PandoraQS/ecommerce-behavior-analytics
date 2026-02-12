@@ -1,0 +1,1722 @@
+[
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T20:31:12",
+        "action": "view_product",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_110"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-12T09:03:08",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 156.9,
+        "session_id": "sess_114"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T05:34:11",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_109"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T09:23:40",
+        "action": "add_to_cart",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_115"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T23:41:00",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 179.38,
+        "session_id": "sess_123"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T06:44:26",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_125"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T16:33:53",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_127"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T06:03:26",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 406.6,
+        "session_id": "sess_107"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T08:20:27",
+        "action": "view_product",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_114"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-11T21:39:32",
+        "action": "checkout_start",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_117"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T01:04:36",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_130"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-12T03:42:51",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_138"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T22:07:29",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T17:11:43",
+        "action": "page_refresh",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_143"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T15:11:47",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_106"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T12:07:02",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_109"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T20:21:12",
+        "action": "add_to_cart",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_128"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T02:07:09",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_138"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T09:46:26",
+        "action": "view_product",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_148"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T06:47:10",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_119"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T17:54:45",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 479.03,
+        "session_id": "sess_124"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T06:53:28",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_119"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T20:28:36",
+        "action": "checkout_start",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_127"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T04:31:35",
+        "action": "checkout_start",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_145"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T12:59:52",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 104.42,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T00:31:36",
+        "action": "view_product",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_122"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T13:11:19",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_107"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-12T05:03:37",
+        "action": "page_refresh",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T14:51:25",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_135"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T04:51:21",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_135"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T16:18:28",
+        "action": "add_to_cart",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_112"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T22:02:31",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_143"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T01:18:19",
+        "action": "view_product",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_122"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T13:54:04",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_132"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T05:47:05",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_132"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T07:19:15",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 112.67,
+        "session_id": "sess_146"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-11T15:25:38",
+        "action": "view_product",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T21:55:52",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_107"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T06:50:00",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_126"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T16:12:54",
+        "action": "view_product",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_104"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T18:17:16",
+        "action": "checkout_start",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T12:41:41",
+        "action": "add_to_cart",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_116"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T00:07:41",
+        "action": "add_to_cart",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_135"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T14:13:26",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_105"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T20:25:39",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_124"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T08:58:38",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 157.51,
+        "session_id": "sess_124"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T09:46:59",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_113"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T11:43:19",
+        "action": "add_to_cart",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_101"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T09:43:16",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 175.3,
+        "session_id": "sess_120"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T16:17:18",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 124.25,
+        "session_id": "sess_116"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-11T13:52:59",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 476.83,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T05:55:10",
+        "action": "purchase",
+        "category": "home",
+        "amount": 237.03,
+        "session_id": "sess_112"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T03:18:40",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 156.87,
+        "session_id": "sess_149"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-12T04:14:06",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 12.08,
+        "session_id": "sess_148"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T00:27:37",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_122"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T16:23:12",
+        "action": "view_product",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_107"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T12:45:41",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_139"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T18:30:49",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_144"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T15:46:26",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_133"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T05:25:30",
+        "action": "purchase",
+        "category": "home",
+        "amount": 486.34,
+        "session_id": "sess_120"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-11T17:41:48",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_101"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T21:11:04",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 355.81,
+        "session_id": "sess_118"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T01:50:22",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 126.04,
+        "session_id": "sess_146"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T10:40:53",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_143"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T19:46:43",
+        "action": "page_refresh",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_149"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T20:14:19",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_131"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T23:42:52",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T02:20:36",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-12T00:10:14",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 494.13,
+        "session_id": "sess_138"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-11T17:50:54",
+        "action": "view_product",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_132"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T13:05:01",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 156.17,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T16:59:38",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_144"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T22:01:38",
+        "action": "purchase",
+        "category": "home",
+        "amount": 385.89,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T10:13:24",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T13:47:01",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_139"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T12:21:16",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 88.94,
+        "session_id": "sess_118"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T01:25:39",
+        "action": "page_refresh",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_104"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T19:31:28",
+        "action": "purchase",
+        "category": "home",
+        "amount": 450.86,
+        "session_id": "sess_110"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T01:08:46",
+        "action": "add_to_cart",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_118"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T15:47:58",
+        "action": "add_to_cart",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_114"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T01:45:00",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 106.37,
+        "session_id": "sess_106"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T09:11:09",
+        "action": "page_refresh",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_100"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T21:13:37",
+        "action": "page_refresh",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_100"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T23:23:24",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_123"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T13:02:38",
+        "action": "view_product",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T08:27:34",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_133"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T17:53:47",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_109"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T13:33:23",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_148"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": null,
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_122"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-12T04:16:51",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_143"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-12T00:50:40",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_114"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-12T02:16:47",
+        "action": "checkout_start",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-11T15:37:54",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_148"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T14:39:17",
+        "action": "add_to_cart",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_147"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T12:51:11",
+        "action": "view_product",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_125"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T04:57:34",
+        "action": "checkout_start",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_121"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T22:59:55",
+        "action": "add_to_cart",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_112"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T11:12:57",
+        "action": "view_product",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_125"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T19:17:15",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 247.07,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-12T04:33:06",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_109"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T01:57:22",
+        "action": "purchase",
+        "category": "home",
+        "amount": 168.12,
+        "session_id": "sess_119"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T04:17:05",
+        "action": "purchase",
+        "category": "home",
+        "amount": 371.42,
+        "session_id": "sess_115"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T08:04:04",
+        "action": "view_product",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_110"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T21:21:51",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T12:29:09",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_115"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T13:03:52",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 239.45,
+        "session_id": "sess_148"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": null,
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 451.97,
+        "session_id": "sess_113"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T15:19:32",
+        "action": "checkout_start",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_112"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T00:24:21",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T20:54:08",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_141"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T18:23:57",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 291.05,
+        "session_id": "sess_130"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T01:17:17",
+        "action": "add_to_cart",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_139"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T10:44:37",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_126"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-12T09:55:12",
+        "action": "add_to_cart",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_135"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T20:12:41",
+        "action": "page_refresh",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_150"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T11:00:41",
+        "action": "checkout_start",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_108"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T09:19:28",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 378.55,
+        "session_id": "sess_119"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T01:12:28",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 141.59,
+        "session_id": "sess_130"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-11T14:26:10",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_127"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": null,
+        "action": "view_product",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_106"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T19:33:34",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 84.61,
+        "session_id": "sess_122"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T03:17:59",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_100"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T01:22:51",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 19.83,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-12T02:17:11",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_127"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T19:27:37",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T15:45:54",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_118"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T02:37:35",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-11T19:16:58",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 52.41,
+        "session_id": "sess_147"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": null,
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_138"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T16:30:06",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_142"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T04:10:39",
+        "action": "view_product",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T06:39:52",
+        "action": "checkout_start",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_140"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-11T17:50:46",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 257.91,
+        "session_id": "sess_111"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T04:41:43",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_128"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T10:20:58",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 232.08,
+        "session_id": "sess_139"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T20:31:16",
+        "action": "add_to_cart",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_147"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T11:50:28",
+        "action": "checkout_start",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_130"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T18:04:04",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_101"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T14:25:03",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_102"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T10:14:40",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_115"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T18:51:20",
+        "action": "purchase",
+        "category": "home",
+        "amount": 405.1,
+        "session_id": "sess_104"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T18:54:55",
+        "action": "view_product",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_133"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T02:05:21",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_109"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T14:06:25",
+        "action": "purchase",
+        "category": "home",
+        "amount": 248.09,
+        "session_id": "sess_149"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T14:44:20",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_104"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T08:29:01",
+        "action": "purchase",
+        "category": "home",
+        "amount": 166.74,
+        "session_id": "sess_140"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-11T14:09:59",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_101"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T06:20:47",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T13:05:46",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_121"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-11T15:07:34",
+        "action": "purchase",
+        "category": "home",
+        "amount": 238.12,
+        "session_id": "sess_117"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T07:43:12",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 266.96,
+        "session_id": "sess_117"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": null,
+        "action": "page_refresh",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_108"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T16:39:09",
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_111"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T02:46:22",
+        "action": "checkout_start",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_134"
+    },
+    {
+        "user_id": "user_3",
+        "timestamp": "2026-02-11T14:24:44",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 64.43,
+        "session_id": "sess_119"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T19:48:11",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_143"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-11T22:40:44",
+        "action": "view_product",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_135"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T07:17:39",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_128"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T10:40:21",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_101"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T06:18:40",
+        "action": "checkout_start",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_145"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T08:41:52",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_120"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T12:19:49",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 147.61,
+        "session_id": "sess_138"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T02:28:00",
+        "action": "page_refresh",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_124"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T04:35:03",
+        "action": "view_product",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_103"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T11:05:10",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_141"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T05:05:57",
+        "action": "purchase",
+        "category": "home",
+        "amount": 286.89,
+        "session_id": "sess_139"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T18:08:49",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_105"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T10:40:04",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 402.84,
+        "session_id": "sess_110"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": null,
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_124"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T00:24:33",
+        "action": "page_refresh",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_108"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T20:25:33",
+        "action": "purchase",
+        "category": "electronics",
+        "amount": 326.9,
+        "session_id": "sess_112"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-11T18:28:09",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 458.71,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-12T09:56:33",
+        "action": "page_refresh",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_133"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-12T09:52:51",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 484.04,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T10:54:00",
+        "action": "checkout_start",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_112"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T02:20:49",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 239.3,
+        "session_id": "sess_138"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T02:21:08",
+        "action": "page_refresh",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_136"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T14:05:10",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_136"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T23:32:02",
+        "action": "view_product",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_150"
+    },
+    {
+        "user_id": "user_5",
+        "timestamp": "2026-02-11T17:18:20",
+        "action": "checkout_start",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_128"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T09:41:27",
+        "action": "page_refresh",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_122"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-12T01:26:51",
+        "action": "add_to_cart",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_104"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": null,
+        "action": "checkout_start",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T02:50:04",
+        "action": "add_to_cart",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_129"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T04:24:31",
+        "action": "purchase",
+        "category": "home",
+        "amount": 350.66,
+        "session_id": "sess_111"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T18:05:07",
+        "action": "checkout_start",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_107"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T22:53:37",
+        "action": "purchase",
+        "category": "beauty",
+        "amount": 181.75,
+        "session_id": "sess_125"
+    },
+    {
+        "user_id": "user_0",
+        "timestamp": "2026-02-12T07:07:02",
+        "action": "view_product",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_117"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-12T10:43:05",
+        "action": "view_product",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_106"
+    },
+    {
+        "user_id": "user_2",
+        "timestamp": "2026-02-11T14:41:05",
+        "action": "purchase",
+        "category": "home",
+        "amount": 131.93,
+        "session_id": "sess_135"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-11T13:32:08",
+        "action": "add_to_cart",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_108"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T04:18:46",
+        "action": "purchase",
+        "category": "toys",
+        "amount": 186.16,
+        "session_id": "sess_143"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-11T15:25:53",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 208.27,
+        "session_id": "sess_144"
+    },
+    {
+        "user_id": "user_4",
+        "timestamp": "2026-02-12T07:36:23",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 264.67,
+        "session_id": "sess_125"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T01:50:35",
+        "action": "page_refresh",
+        "category": "home",
+        "amount": 0,
+        "session_id": "sess_116"
+    },
+    {
+        "user_id": "user_7",
+        "timestamp": "2026-02-12T06:00:11",
+        "action": "add_to_cart",
+        "category": "beauty",
+        "amount": 0,
+        "session_id": "sess_144"
+    },
+    {
+        "user_id": "user_9",
+        "timestamp": "2026-02-12T09:22:20",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_134"
+    },
+    {
+        "user_id": "user_6",
+        "timestamp": "2026-02-12T02:46:22",
+        "action": "page_refresh",
+        "category": "clothing",
+        "amount": 0,
+        "session_id": "sess_141"
+    },
+    {
+        "user_id": "user_8",
+        "timestamp": "2026-02-11T13:42:48",
+        "action": "view_product",
+        "category": "toys",
+        "amount": 0,
+        "session_id": "sess_128"
+    },
+    {
+        "user_id": "user_1",
+        "timestamp": "2026-02-11T14:33:12",
+        "action": "purchase",
+        "category": "clothing",
+        "amount": 228.83,
+        "session_id": "sess_121"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:24.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:25.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:26.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:27.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:28.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:29.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:30.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:31.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:32.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:33.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:34.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:35.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:36.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:37.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    },
+    {
+        "user_id": "user_999",
+        "timestamp": "2026-02-12T11:12:38.237137",
+        "action": "page_refresh",
+        "category": "electronics",
+        "amount": 0,
+        "session_id": "sess_999"
+    }
+]
